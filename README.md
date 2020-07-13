@@ -4,6 +4,8 @@ Allows you to add more then **60** characters to exclude.
 
 > The defaullt settings are 6000 characters
 
+    document.getElementsByName("exclude")[0].maxLength = 6000; //Change the Value 6000 for more characters
+
 Guide for Dummies
 
 1. Install Tampermonkey (Firefox/Chrome)
