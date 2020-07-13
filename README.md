@@ -9,6 +9,6 @@ Allows you to add more then **60** characters to exclude.
 Guide for Dummies
 
 1. Install Tampermonkey (Firefox/Chrome)
-2. Import the Script with Tampermonkey
+2. Import the Script with Tampermonkey ([xHamster Exclude Extender.user.js](https://github.com/DayZeroKing/xHamster-Exclude-Extender/blob/master/xHamster%20Exclude%20Extender.user.js "xHamster Exclude Extender.user.js")
 3. Aktivate Script
 4. Done. Have Fun ;D 
